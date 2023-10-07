@@ -1,4 +1,4 @@
-rm rf Marshal
+rm rf- Marshal
 
 git clone https://github.com/SKBER-CYBER/Marshal
 
